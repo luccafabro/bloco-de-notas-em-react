@@ -1,0 +1,48 @@
+.formulario-cadastro-form {
+    float: left;
+    width: 25%;
+    border-right: 5px solid rgba(0, 191, 255, 0.644);
+    border-bottom: 5px solid rgba(0, 191, 255, 0.644);
+
+}
+.formulario-cadastro-input-titulo {
+    border: 2px solid gray;
+    float: left;
+    margin:2rem 10rem 2rem 1rem;
+    width: 60%;
+    min-width: 60%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.644);
+}
+.formulario-cadastro-input-texto {
+    float: left;
+    border: 2px solid gray;
+    font-size: 95%;
+    margin:2rem 10rem 2rem 1rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: max-content;
+    width: 60%;
+    min-width: 60%;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.644);
+}
+.formulario-cadastro-input-criar-nota {
+    float: right;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-shadow: 1px 1px black;
+    font-weight: 400;
+}
+.formulario-cadastro-input-criar-nota:hover {
+    background-color: rgba(0, 0, 0, 0.082);
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.644);
+}
+.formulario-cadastro-categorias {
+    border: 2px solid gray;
+    float: left;
+    margin:2rem 10rem 1rem 1rem;
+    width: 60%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    min-width: 60%;
+    box-shadow: 2px 2px rgba(0, 0, 0, 0.644);
+}
