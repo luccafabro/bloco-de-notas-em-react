@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# bloco-de-notas
+bloco de notas simples, sem armazenamento no banco de dados ou localStorage, apenas para o início do aprendizado em react.
+
+# detalhes
+esse projeto foi inspirado em um curso dado na Alura como introdução ao React.
+
+# comandos padrão react abaixo
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
